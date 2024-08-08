@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorHtml", "EditorHtml\EditorHtml.csproj", "{398D29A0-7AB3-4752-815A-4060E4A17CFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398D29A0-7AB3-4752-815A-4060E4A17CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398D29A0-7AB3-4752-815A-4060E4A17CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398D29A0-7AB3-4752-815A-4060E4A17CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398D29A0-7AB3-4752-815A-4060E4A17CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ADB2354-C438-4712-A471-B776DD2CEECE}
+	EndGlobalSection
+EndGlobal
